@@ -1,0 +1,9 @@
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\obj\Debug\r-tree.csproj.AssemblyReference.cache
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\obj\Debug\r-tree.csproj.CoreCompileInputs.cache
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\bin\Debug\r_tree.exe
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\bin\Debug\r_tree.pdb
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\bin\Debug\System.ValueTuple.dll
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\bin\Debug\System.ValueTuple.xml
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\obj\Debug\r-tree.csproj.CopyComplete
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\obj\Debug\r_tree.exe
+C:\Users\Darkinki\RiderProjects\r-tree\r-tree\obj\Debug\r_tree.pdb
